@@ -48,7 +48,7 @@ class GridItem extends StatelessWidget {
                   style:const  TextStyle(
                     fontSize: 20,
                     fontWeight: FontWeight.bold,
-                    color: Colors.white70,
+                    color: Color.fromARGB(255, 87, 227, 194),
                   ),
                 ),
               ),

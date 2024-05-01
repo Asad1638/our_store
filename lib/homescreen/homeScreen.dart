@@ -84,7 +84,7 @@ class HomeScreen extends StatelessWidget {
                         },
                       ),
                       GridItem(
-                        imageAsset: "assets/images/shops.jpeg",
+                        imageAsset: "assets/images/order.jpeg",
                         itemName: "Orders",
                         onTap: () {
                           // Navigator.push(
@@ -108,7 +108,7 @@ class HomeScreen extends StatelessWidget {
                         },
                       ),
                       GridItem(
-                        imageAsset: "assets/images/riders.jpeg",
+                        imageAsset: "assets/images/ride.jpeg",
                         itemName: "Rider",
                         onTap: () {
                           //  Navigator.push(
